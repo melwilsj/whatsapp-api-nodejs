@@ -31,6 +31,9 @@
     "repository": "git@github.com:salman0ansari/whatsapp-api-nodejs.git",
     "author": "Mohd Salman Ansari <salman0ansariii@gmail.com>",
     "license": "MIT",
+    "engines": {
+      "node": "18.x"
+    },
     "dependencies": {
         "@whiskeysockets/baileys": "^6.1.0",
         "@adiwajshing/keyed-db": "^0.2.4",
